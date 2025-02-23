@@ -6,7 +6,7 @@ function Footer() {
 			<section className="footer-bookhub">
 				<div className="share">
 					<a
-						href="https://twitter.com/ShilpeSaxena"
+						href="https://twitter.com/SabirWalidAbdurahman"
 						target="_blank"
 						rel="noreferrer"
 						className="footer_for-bookhub"
@@ -14,7 +14,7 @@ function Footer() {
 						<i className="fab fa-twitter"></i>
 					</a>
 					<a
-						href="https://www.linkedin.com/in/shilpe-saxena-heartly-winner/"
+						href="https://www.linkedin.com/in/sabir-abdurahman/"
 						target="_blank"
 						rel="noreferrer"
 						className="footer_for-bookhub"
@@ -22,7 +22,7 @@ function Footer() {
 						<i className="fab fa-linkedin"></i>
 					</a>
 					<a
-						href="https://github.com/shilpe26"
+						href="https://github.com/SabirWalid"
 						target="_blank"
 						rel="noreferrer"
 						className="footer_for-bookhub"
@@ -31,7 +31,7 @@ function Footer() {
 					</a>
 				</div>
 				<div className="credit">
-					Made with 💙 by<span> Shilpe Saxena</span>
+					Made with 💙 by<span> Sabir Walid</></span>
 				</div>
 			</section>
 		</div>
