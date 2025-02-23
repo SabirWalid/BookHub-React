@@ -29,7 +29,7 @@ function Home() {
 				<div className="row">
 					<div className="content_for-bookhub">
 						<h3 className="style-head">
-							<span>Reading made</span>
+							<span>React Engineer Sabir.</span>
 							<span className="style_text-yellow">
 								<span className="style-yellow">better</span>
 							</span>
@@ -44,7 +44,7 @@ function Home() {
 							</span>
 						</p>
 						<Link to="/product" className="btn-bookooze">
-							Bookstore
+							ALU Bookstore
 						</Link>
 					</div>
 
@@ -63,7 +63,7 @@ function Home() {
 				<div className="icons">
 					<i className="fas fa-shipping-fast icons_for-bookhub"></i>
 					<div className="content">
-						<h3 className="port-shipping">Free shipping</h3>
+						<h3 className="port-shipping">Free Delivery</h3>
 						<p className="facility_for-port">order over $100</p>
 					</div>
 				</div>
@@ -129,7 +129,7 @@ function Home() {
 						velit.
 					</p>
 					<Link to="/product" className="btn">
-						Shop now
+						Buy now
 					</Link>
 				</div>
 				<div className="image">
